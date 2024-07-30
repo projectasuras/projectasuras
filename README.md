@@ -2,7 +2,7 @@
 
 ## 🌐 Overview
 
-Welcome to our Cyber Security Community! This is your one-stop resource for an array of tools and tutorials designed to empower individuals and organizations in the field of cyber security. Our mission is to provide high-quality resources for performing vulnerability assessments, penetration testing, and more, alongside comprehensive guides for learning and mastering cyber security concepts.
+Welcome to Project Asuras (A Cyber Security Community)! This is your one-stop resource for an array of tools and tutorials designed to empower individuals and organizations in the field of cyber security. Our mission is to provide high-quality resources for performing vulnerability assessments, penetration testing, and more, alongside comprehensive guides for learning and mastering cyber security concepts.
 
 ## 🔧 Tools & Resources
 
@@ -55,4 +55,4 @@ All tools and tutorials are intended for ethical use only. Please ensure you hav
 
 ---
 
-Thank you for being part of our Cyber Security Community! Together, we can build a safer and more secure digital world.
+Thank you for being part of Project Asuras! Together, we can build a safer and more secure digital world.
