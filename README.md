@@ -2,7 +2,7 @@
 
 ## 🌐 Overview
 
-Welcome to the Cyber Security Community, where the digital world meets its ultimate guardians! 🦸‍♂️🦸‍♀️ This is your go-to hub for all things cyber security, offering a treasure trove of tools and tutorials to keep your systems secure and your skills sharp. Whether you're diving into vulnerability assessments or mastering penetration testing, we've got you covered!
+Welcome to Project Asuras (A Cyber Security Community), where the digital world meets its ultimate Asura's! 🦸‍♂️🦸‍♀️ This is your go-to hub for all things cyber security, offering a treasure trove of tools and tutorials to keep your systems secure and your skills sharp. Whether you're diving into vulnerability assessments or mastering penetration testing, we've got you covered!
 
 ## 🔧 Tools & Resources
 
@@ -59,4 +59,4 @@ All tools and tutorials here are for ethical use only. Always ensure you have th
 
 ---
 
-Thanks for being a part of our Cyber Security Community! Together, we’ll defend the digital realm and keep the web safe and sound. 🕵️‍♂️💻✨
+Thanks for being a part of Project Asuras! Together, we’ll defend the digital realm and keep the web safe and sound. 🕵️‍♂️💻✨
